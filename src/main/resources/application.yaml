@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      url: mongodb://business-cockpit:business-cockpit@business-cockpit-mongo:27017/business-cockpit
